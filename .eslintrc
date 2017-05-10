@@ -1,0 +1,7 @@
+{
+  "parser": "eslint",
+  "env": {
+    "browser": true,
+    "node": true
+  }
+}
